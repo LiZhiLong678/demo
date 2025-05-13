@@ -7,8 +7,8 @@ const province="Hunan";
 echo province;
 echo "<br>";
 // 2、定义变量a=1、b=2、c=3，输出a+b*c的值。
-$a=1;$b=2;$c=3;
-echo ($a+$b)*$c;
+$a=1;$b=2;$c=3;$d=5
+echo ($a+$b)*$c*$d;
 echo "<br>";
 // 3、长方形的长为10，宽为5，求长方形的周长和面积。
 $chang=10;$kuan=5;
